@@ -1,9 +1,10 @@
 /* second commit added .h2 color */
-.body {
+/* third commit - correct CSS errors by remove . from body and h2 */
+body {
     background-color: blue;
 }
 
-.h2 {
+h2 {
     background-color: bisque;
 }
 
