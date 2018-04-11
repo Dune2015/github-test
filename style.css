@@ -2,6 +2,7 @@
 /* third commit - correct CSS errors by remove . from body and h2 */
 body {
     background-color: blue;
+    margin-right: 10px;
 }
 
 h2 {
